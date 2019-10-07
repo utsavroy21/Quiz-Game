@@ -1,0 +1,57 @@
+ 1.To choose any option in any menu, enter the corresponding number at the pr-
+ ompt. Here is a description of all the menu options.
+
+ Main Menu: 
+  PLAY: Used to enter the profile number, choose a topic and start the quiz.
+  PROFILES: Used to create a new profile, modify a profile and to view all 
+  existing profiles.
+  POINTS HISTORY: This will display the top 10 scores along with the correspo-
+  nding profile names.
+  INSTRUCTIONS: This is where you are right now.
+  EXIT: Used to close the application.
+
+ Profiles Menu:
+  ADD: Used to create a new profile. You will be given a profile number after
+//blank
+  you enter your name. You can create a maximum of 10 profiles.
+  MODIFY: Used to change the name of any existing profile.
+  VIEW ALL: Displays all existing profiles and their numbers.
+  BACK: To go back to the main menu.
+
+ 2.Before you start the quiz, you must first create a profile. This can be do-
+ ne by choosing the ADD option under PROFILES.
+
+ 3.After you choose PLAY, you must enter your profile number and choose your 
+ topic (1 for Sports and 2 for GK) to start the quiz.
+ 
+ 4.Once the quiz loads, you will see a screen with the question, options, ava-
+ ilable lifelines, the value of the question, current total and a prompt aski-
+ ng you for input.
+ 
+ 5.If you want to answer the question, enter the option number (1, 2, 3 or 4) 
+ of your answer at the prompt.
+
+ 6.When you are not sure of your answer, you can use the available lifelines.
+ Each lifeline can be used only once during each quiz and only 1 lifeline can
+ be used per question.
+
+  Clueless!: This will give you a clue to the question. It is available only
+  for some questions. Value of the question reduces to 7.5.
+
+  Eliminate: This will remove any 2 wrong options. Value of the question redu-
+  ces to 5.
+
+  Swap: This will give a new question. Value of the question reduces to 7.5.
+
+ 7.If you want to use an available lifeline, enter the corresponding code 
+ (10 for Clueless!, 11 for Eliminate and 12 for Swap).
+
+ 8.If you answer correctly without using a lifeline, you get 10 points.
+
+ 9.If a lifeline has been used, you get the corresponding points.
+
+10. If you answer incorrectly, you get no points.
+ 
+11. After the 10 questions have been answered, your total score is displayed,
+  along with the lifelines that were used and the number of questions you had 
+  answered correctly.
